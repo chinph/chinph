@@ -25,7 +25,7 @@
 - :star: I'm a detail-oriented, organized, responsible, and fast-learning person at work. But outside, I'm relaxed and have a free spirit of a cat lying beside the window waiting for sunshine. </p>
 
 ### :school: Where I am
-- <p> :two_hearts: My home is in Vietnam, a lovely country in South-North Asia. However, I'm now pursuing my Master of Science in Statistics at the Zicklin School of Business in the US. <br> 
+- <p> :two_hearts: My home is in Vietnam, a lovely country in Southeast Asia. However, I'm now pursuing my Master of Science in Statistics at the Zicklin School of Business in the US. <br> 
 - :purple_heart: Before that, I also had one-year living and studying in Italy, in a beautiful and peaceful town called Urbino, which is in the South of Italy. </p>
 
 ### :scroll: What my experiences are 
