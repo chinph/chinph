@@ -20,7 +20,7 @@
 </div>
 
 ### :woman_technologist: Who I am 
-- <p> :carrot: My name is Chi Nguyen. My friends often call me Carol <br> 
+- <p> :carrot: My name is Chi Nguyen. My friends often call me Emily <br> 
 - :eyes: I describe myself as an ambivert person who is comfortable with being alone but enjoys hanging out with friends and engaging in different exciting stories at the same time. 
 - :star: I'm a detail-oriented, organized, responsible, and fast-learning person at work. But outside, I'm relaxed and have a free spirit of a cat lying beside the window waiting for sunshine. </p>
 
