@@ -21,11 +21,11 @@
 
 ### :woman_technologist: Who I am 
 - <p> :carrot: Hello, my name is Chi Nguyen (but my friends call me Kei)  <br> 
-- :eyes: I am an ambivert who is comfortable with being alone but enjoys engaging in different exciting stories with friends. </p>
+- :eyes: I'm an ambivert—comfortable spending time alone, but equally energized by sharing exciting stories and experiences with friends. </p>
 
 ### :school: Where I am
-- <p> :two_hearts: I am currently pursuing my Master of Science in Statistics at the Zicklin School of Business in the US, but I hail from Vietnam, a lovely country in Southeast Asia. <br> 
-- :purple_heart: I also had the opportunity to live and study in a beautiful and peaceful town called Urbino, located in the South of Italy.  </p>
+- <p> :two_hearts: I'm currently working as a full-time data analyst in the U.S., originally from Vietnam — a lovely country in Southeast Asia. <br> 
+- :purple_heart: I also had the opportunity to live and study in Urbino, a peaceful and picturesque town in southern Italy. </p>
 
 ### :scroll: What my experiences are 
 **Database**
@@ -49,11 +49,8 @@
   <img src="https://img.shields.io/badge/Metabase-3776AB?style=for-the-badge&logo=Metabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Holistics-3776AB?style=for-the-badge&logo=Holistics&logoColor=white"/>
 </p>  
-<p> :crayon: I have over three years of experience working as a data analyst/business intelligence analyst, where I have honed my skills in database management, programming languages, and visualization tools. My main tasks focus on answering different business questions by conducting deep-down analyses and tracking anomalies in business numbers. I enjoy exploring data and love to find insights hidden beneath the surface of numbers. <br>  
-:kissing_heart: In my previous roles, I have accomplished many things, including identifying cost-saving opportunities that resulted in a 20% reduction in expenses, and developing a data-driven strategy that increased revenue by 15%. I am detail-oriented, organized, responsible, and a fast learner, and I apply these qualities to every task I undertake. </p>
+<p> :crayon: I have over 4 years of experience as a Data Analyst and Business Intelligence Analyst, where I’ve honed my skills in database management, programming, and data visualization tools. My work primarily revolves around answering key business questions through deep-dive analysis and identifying anomalies in business performance metrics. I genuinely enjoy exploring data and uncovering the insights hidden beneath the surface. Along the way, I also love sharing useful tips and tricks as I continue to grow in my analytics journey. <br>  
 
-### :mag: What I am looking for
- - <p> :briefcase: I am currently seeking a data analyst position in a data-driven company where I can learn and grow my analytical and problem-solving skills. With my cross-cultural experience and proven track record of success, I believe I would make a valuable addition to any team. Thank you for considering my profile. </p> 
 
 
   
